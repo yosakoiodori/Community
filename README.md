@@ -4,7 +4,9 @@
 <a>
   <img src="item/annnai.jpg" />
 </a>
-Global user community will provide Fujitsu services "FUJITSU Cloud IaaS Trusted Public S5" is a community site for users.
+
+
+Global user community will provide Fj services "S5" is a community site for users.
 
 Useful information and use of the Service and System are available forum for information exchange.
 
@@ -16,9 +18,10 @@ Useful information and use of the Service and System are available forum for inf
 このリポジトリでは、ポータルに関する投稿をお願いします。
 
 
-Here is the community forum of [TPSx]. We have become the operation using the Issues.
+Here is the community forum of [TPSx](http://oviss.jp.fujitsu.com/). We have become the operation using the Issues.
 
 In this repository, please post on the portal.
+
 
 ## ご注意ください
 

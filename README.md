@@ -11,16 +11,12 @@ Global user community will provide Fj services "S5" is a community site for user
 Useful information and use of the Service and System are available forum for information exchange.
 
 
-#＜＜ポータルについて＞＞
+#＜＜ＴＰＳ５コミュニティについて＞＞
 
 ここは[TPSx](http://oviss.jp.fujitsu.com/)のコミュニティフォーラムになります。Issues(投稿)を使った運用となっております。
 
-このリポジトリでは、ポータルに関する投稿をお願いします。
-
 
 Here is the community forum of [TPSx](http://oviss.jp.fujitsu.com/). We have become the operation using the Issues.
-
-In this repository, please post on the portal.
 
 
 ## ご注意ください
